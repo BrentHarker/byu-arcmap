@@ -1,0 +1,515 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "title": "AED Locations",
+    "count": 39
+  },
+  "features": [{
+    "type": "Feature",
+    "properties": {
+      "building": "CB",
+      "room": "270",
+      "location": "Main floor north of Weidman Center (room 264). In cabinet w\/ fire extinguisher.",
+      "picture": "https:\/\/risk.byu.edu\/images\/aed\/MHA-Recycling-2.jpg"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-111.64825, 40.247144]
+    },
+    "id": "aed6"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "building": "BYUB",
+      "room": "",
+      "location": "Main floor foyer, south of security desk and main entrance.",
+      "picture": "https:\/\/risk.byu.edu\/images\/aed\/BYUB5.JPG"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-111.647594, 40.254625]
+    },
+    "id": "aed7"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "building": "HBLL",
+      "room": "2250",
+      "location": "Second floor in FHC. Next to the door.",
+      "picture": "https:\/\/risk.byu.edu\/images\/aed\/HBLLFHC2.JPG"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-111.649106, 40.249312]
+    },
+    "id": "aed8"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "building": "HBLL",
+      "room": "Main hallway",
+      "location": "Main floor foyer, Next to Special Exhibit.",
+      "picture": "https:\/\/risk.byu.edu\/images\/aed\/HBLLMain3.JPG"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-111.649125, 40.249042]
+    },
+    "id": "aed9"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "building": "HC",
+      "room": "",
+      "location": "Coat Closet in North Hallway.",
+      "picture": "https:\/\/risk.byu.edu\/images\/aed\/HC2.JPG"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-111.651577, 40.251888]
+    },
+    "id": "aed10"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "building": "HCEB",
+      "room": "2297B",
+      "location": "North Hallway across from Conference Center Office. Next to Room 2297B.",
+      "picture": "https:\/\/risk.byu.edu\/images\/aed\/HCEB4.JPG"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-111.645372, 40.255743]
+    },
+    "id": "aed11"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "building": "HFAC",
+      "room": "",
+      "location": "South Side of building. Next to Dejong Concert Hall Door 2.",
+      "picture": "https:\/\/risk.byu.edu\/images\/aed\/HFAC2.JPG"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-111.648078, 40.249783]
+    },
+    "id": "aed12"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "building": "JRCB",
+      "room": "254",
+      "location": "Law Library- In mail room behind door.",
+      "picture": "https:\/\/risk.byu.edu\/images\/aed\/Clark31.jpg"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-111.645139, 40.249601]
+    },
+    "id": "aed13"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "building": "MC",
+      "room": "3402 ",
+      "location": "Hallway outside first aid room; between portals Q and R.",
+      "picture": "https:\/\/risk.byu.edu\/images\/aed\/3402_MC_93.JPG"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-111.649847, 40.254121]
+    },
+    "id": "aed14"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "building": "MOA",
+      "room": "",
+      "location": "West of Info desk, next to elevator.",
+      "picture": "https:\/\/risk.byu.edu\/images\/aed\/MOA1.JPG"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-111.647849, 40.250751]
+    },
+    "id": "aed15"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "building": "SNLB",
+      "room": "235",
+      "location": "Hallway- 2nd floor. Next to room 230.",
+      "picture": "https:\/\/risk.byu.edu\/images\/aed\/Snell1.JPG"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-111.64534, 40.247393]
+    },
+    "id": "aed26"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "building": "SWKT",
+      "room": "224",
+      "location": "Hallway- 2nd floor. Outside of Auditorium.",
+      "picture": "https:\/\/risk.byu.edu\/images\/aed\/SWKT2.JPG"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-111.651077, 40.247484]
+    },
+    "id": "aed27"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "building": "WSC",
+      "room": "",
+      "location": "2nd floor next to Bookstore and Cougareat.",
+      "picture": "https:\/\/risk.byu.edu\/images\/aed\/IMG_0217.JPG"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-111.647815, 40.248376]
+    },
+    "id": "aed31"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "building": "WSC",
+      "room": "",
+      "location": "3rd floor in vending area.",
+      "picture": "https:\/\/risk.byu.edu\/images\/aed\/IMG_0215.JPG"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-111.647114, 40.248587]
+    },
+    "id": "aed32"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "building": "ASB",
+      "room": "",
+      "location": "Main floor foyer- next to off campus housing office.",
+      "picture": "https:\/\/risk.byu.edu\/images\/aed\/ASB5.JPG"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-111.649541, 40.250875]
+    },
+    "id": "aed33"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "building": "ESC",
+      "room": "Foyer",
+      "location": "Main Floor, South of Pendulum Court Cafe and next to room C284.",
+      "picture": "https:\/\/risk.byu.edu\/images\/aed\/ESC4.JPG"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-111.650178, 40.247044]
+    },
+    "id": "aed35"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "building": "RB",
+      "room": "hallway",
+      "location": "Main Hallway next to room 147.",
+      "picture": "https:\/\/risk.byu.edu\/images\/aed\/RB1.JPG"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-111.653655, 40.2491]
+    },
+    "id": "aed38"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "building": "SFH",
+      "room": "North East Entrance",
+      "location": "North East Entrance; just south of Dept. of Exercise Sciences offices.",
+      "picture": "https:\/\/risk.byu.edu\/images\/aed\/SFH6.JPG"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-111.653998, 40.247603]
+    },
+    "id": "aed39"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "building": "CTB",
+      "room": "225",
+      "location": "Hallway on 2nd floor, near foyer, across hall from Rm #225.",
+      "picture": "https:\/\/risk.byu.edu\/images\/aed\/CTB2.JPG"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-111.646567, 40.247688]
+    },
+    "id": "aed42"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "building": "ROTC",
+      "room": "Foyer",
+      "location": "Next to front door.",
+      "picture": "https:\/\/risk.byu.edu\/images\/aed\/IMG_0212.JPG"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-111.644041, 40.248002]
+    },
+    "id": "aed44"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "building": "MC",
+      "room": "",
+      "location": "Between portals Y & A on north east side of building.",
+      "picture": "https:\/\/risk.byu.edu\/images\/aed\/Mc8.JPG"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-111.648796, 40.254391]
+    },
+    "id": "aed46"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "building": "JKB",
+      "room": "Stairwell",
+      "location": "Northwest side of building, just outside the Police Dept. lobby.",
+      "picture": "https:\/\/risk.byu.edu\/images\/aed\/JKB3.JPG"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-111.65046, 40.250197]
+    },
+    "id": "aed47"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "building": "LSB",
+      "room": "Main hallway",
+      "location": "2nd floor north of elevators.",
+      "picture": "https:\/\/risk.byu.edu\/images\/aed\/LSB1.JPG"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-111.649355, 40.24507]
+    },
+    "id": "aed48"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "building": "BRWB",
+      "room": "",
+      "location": "Northeast entrance of the North wing, Inside door by lobby area.",
+      "picture": "https:\/\/risk.byu.edu\/images\/aed\/Brewster4.JPG"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-111.644758, 40.246805]
+    },
+    "id": "aed49"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "building": "BRMB",
+      "room": "hallway",
+      "location": "3rd floor hallway, outside elevator and men's restroom.",
+      "picture": "https:\/\/risk.byu.edu\/images\/aed\/IMG_0223.JPG"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-111.652342, 40.246351]
+    },
+    "id": "aed50"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "building": "IPF",
+      "room": "111",
+      "location": "Outside training room, on northwest side of building.",
+      "picture": "https:\/\/risk.byu.edu\/images\/aed\/IMG_0224.JPG"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-111.65724, 40.247504]
+    },
+    "id": "aed51"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "building": "JFSB",
+      "room": "Lobby",
+      "location": "South East Lobby",
+      "picture": "https:\/\/risk.byu.edu\/images\/aed\/JFSB.jpg"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-111.650778, 40.248131]
+    },
+    "id": "aed53"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "building": "CANC",
+      "room": "Lobby",
+      "location": "Housing Lobby",
+      "picture": "https:\/\/risk.byu.edu\/images\/aed\/CANC_AED_2016-1.jpg"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-111.653081, 40.252246]
+    },
+    "id": "aed54"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "building": "CSC",
+      "room": "Food Prep area",
+      "location": "Just inside swinging doors of food prep area",
+      "picture": "https:\/\/risk.byu.edu\/images\/aed\/CSC_AED_2016-1.jpg"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-111.645932, 40.254437]
+    },
+    "id": "aed55"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "building": "MARB",
+      "room": "",
+      "location": "south East corner of middle lobby area",
+      "picture": "https:\/\/risk.byu.edu\/images\/aed\/MARB.jpg"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-111.649163, 40.24678]
+    },
+    "id": "aed57"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "building": "ITB",
+      "room": "",
+      "location": "2nd floor south of elevators",
+      "picture": "https:\/\/risk.byu.edu\/images\/aed\/ITB-2-1.jpg"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-111.65764, 40.252501]
+    },
+    "id": "aed59"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "building": "BNSN",
+      "room": "C122",
+      "location": "Main floor by the elevators",
+      "picture": "https:\/\/risk.byu.edu\/images\/aed\/Benson_AED.JPG"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-111.650548, 40.245785]
+    },
+    "id": "aed60"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "building": "TLRB",
+      "room": "",
+      "location": "2nd floor by reception area",
+      "picture": "https:\/\/risk.byu.edu\/images\/aed\/Taylor_AED.JPG"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-111.642601, 40.249298]
+    },
+    "id": "aed61"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "building": "MLBM",
+      "room": "",
+      "location": "By the elevators ",
+      "picture": "https:\/\/risk.byu.edu\/images\/aed\/bean.jpg"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-111.647472, 40.253353]
+    },
+    "id": "aed73"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "building": "TNRB",
+      "room": "188",
+      "location": "wall to the left of the faculty elevator; near room 188",
+      "picture": "https:\/\/risk.byu.edu\/images\/aed\/IMG_1888.JPG"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-111.652477, 40.250426]
+    },
+    "id": "aed74"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "building": "AXMB",
+      "room": "",
+      "location": "Main lobby by front doors",
+      "picture": "https:\/\/risk.byu.edu\/images\/aed\/IMG_1881.JPG"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-111.641735, 40.25634]
+    },
+    "id": "aed75"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "building": "MP",
+      "room": "116",
+      "location": "Miller Park office building near training room 116 ",
+      "picture": "https:\/\/risk.byu.edu\/images\/aed\/IMG_1960.JPG"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-111.651947, 40.254818]
+    },
+    "id": "aed82"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "building": "TMCB",
+      "room": "",
+      "location": "Main lobby near vending machines",
+      "picture": "https:\/\/risk.byu.edu\/images\/aed\/talmage2.jpg"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-111.650886, 40.249447]
+    },
+    "id": "aed85"
+  }, {
+    "type": "Feature",
+    "properties": {
+      "building": "ELLB",
+      "room": "Foyer",
+      "location": "Foyer outside of OIT rental office",
+      "picture": "https:\/\/risk.byu.edu\/images\/aed\/ELLB.jpg"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-111.659519, 40.264251]
+    },
+    "id": "aed88"
+  }]
+}
